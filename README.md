@@ -1,16 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bipin Krishna 🇮🇳
 
-- 🌱 I’m comfortable in C, C++ and Python.
-- ![Profile views](https://gpvc.arturio.dev/bipinkrish)
-- [![GitHub followers](https://img.shields.io/github/followers/bipinkrish.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bipinkrish?tab=followers)
+<h4> I’m comfortable in C, C++, Python and Dart. </h4>
+<img src="https://img.shields.io/github/followers/bipinkrish.svg?style=darkl&label=Follow">
 
-<!-- <p align="centre"><a href="https://github.com/bipinkrish"><img src="https://github-profile-trophy.vercel.app/?username=bipinkrish&no-bg=true" alt="bipinkrish"/></a> </p> -->
-
-<p>
- <a href="https://github.com/bipinkrishhandle-path-oz">
- <img width="100%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide_border=true" /> </a> </p>
-
-<!-- <p><img width="100%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&theme=nightowl&show_icons=true&hide_border=true" alt="bipinkrish" /></p> -->
-
-<p> <a href="https://github.com/bipinkrish/handle-path-oz">
-<img width="100%" align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish&theme=nightowl&show_icons=true&hide_border=true" /> </a> </p>
+<p align="center">
+<img height=275 src="https://github-stats-alpha.vercel.app/api/?username=bipinkrish&cc=000&tc=fff&ic=fff&bc=000" align="center">
+<img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish&theme=dark&show_icons=true&hide_border=true&bg_color=000000" align="center">
+<br> <br>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=bipinkrish&theme=darkhub" align="center">
+</p>
