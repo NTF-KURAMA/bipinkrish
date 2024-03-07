@@ -1,6 +1,6 @@
 # I'm Bipin Krishna 🇮🇳
 
-#### I’m comfortable in C, C++, Python and Dart.
+#### I’m comfortable in C, C++, Java, JavaScript, Python and Dart.
 <img src="https://img.shields.io/github/followers/bipinkrish.svg?style=darkl&label=Follow">
 
 <p align="center">
